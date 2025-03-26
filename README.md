@@ -109,7 +109,6 @@ plt.show()
 ### Results
 
 ![Likelihood of Skills Requested in American Job Postings](02_Skills_Demand_Image.png)
-
 *Bar graph visualizing the salary for engineering data roles and their top 5 skills associated with each.*
 
 ### Insights
@@ -152,7 +151,6 @@ plt.show()
 ### Results
 
 ![Trending Top Skills for Engineers in America](03_Skills_Trend_Image.png)
-
 *Line graph visualizing the trending skills for engineering roles in America in 2023*
 
 ### Insights
@@ -166,6 +164,8 @@ plt.show()
 ## 3. How well do jobs and skills pay for Engineers in America?
 ---
 To identify the highest-paying roles and skills, I only got jobs in America and looked at their median salary. But first I looked at the salary distributions of Engineering roles, to get an idea of which jobs are paid the most.
+
+View my notebook with detailed steps here: [4_Salary_Analysis](4_Salary_Analysis.ipynb)
 
 ### Visualize Data
 ```python
@@ -185,7 +185,6 @@ plt.show()
 ### Results
 
 ![Salary Distributions of Engineering roles in America](04_Salary_Analysis_1.png)
-
 *Box plot visualizing the salary distributions for engineering roles.*
 
 ### Insights
@@ -230,7 +229,6 @@ plt.show()
 Here's the breakdown of the highest-paid & most in-demand skills for Engineers in America:
 
 ![The Highest Paid & Most In-Demand Skills for Engineers in America](04_Salary_Analysis_2.png)
-
 *Graphs visualizing the highest paid skills and most in-demand skills for Engineers in America*
 
 ### Insights
@@ -269,8 +267,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skills for Engineers in America](05_Optimal_Skills_1-1.png)
-
+![Most Optimal Skills for Engineers in America](05_Optimal_Skills_1.png)
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for engineers in America*
 
 ### Insights
@@ -308,7 +305,6 @@ plt.show()
 ### Results
 
 ![Most Optimal Skills for Engineering Data Roles in America with Coloring by Technology](05_Optimal_Skills_2.png)
-
 *A scatter plot visualizing the most optimal skills (high paying & demand) for engineers in America with color labels for technology*
 
 ### Insights:
